@@ -19,9 +19,9 @@
 				<key>bundle-identifier</key>
 				<string>com.driverhoiango</string>
 				<key>bundle-version</key>
-				<string>1.2.3</string>
+				<string>1.2.5</string>
 				<key>buildNumber</key>
-				<string>97</string>
+				<string>105</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
